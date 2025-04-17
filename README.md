@@ -8,7 +8,7 @@ Welcome to the **HR Analytics Dashboard Project**, where data meets insights! Th
 
 > *(Insert a sleek screenshot of your dashboard below)*
 
-![Dashboard Screenshot](placeholder-for-dashboard-image.png)
+![Dashboard Screenshot](P1.PNG)
 
 > *Tip: Save your screenshot as `dashboard.png` and replace the file name above to show it off right here!*
 
